@@ -1,0 +1,5 @@
+azure-cognitiveservices-vision-computervision
+azure-cognitiveservices-speech
+msrest
+requests
+Pillow
